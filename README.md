@@ -2,7 +2,7 @@
 
 
 
-<h2> 🖥️ Experiencia en :</h2>
+<h2> 🖥️ My experience and some tools i've used and learned </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
