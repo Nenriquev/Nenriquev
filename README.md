@@ -11,7 +11,7 @@
   </div>
 </div>
 
-
+<h1>Hi! my name is Nerio, i'm Full Stack Developer!</h1>
 
 <h2> 🖥️ My experience and some tools i've used and learned </h2>
 <p align="left">
